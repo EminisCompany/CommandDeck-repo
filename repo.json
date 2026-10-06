@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "EMCO",
+    "Name": "FC Tracker",
+    "InternalName": "FCTracker",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": null,
+    "Description": "Tracks every character and free company across your accounts: houses and how long since you last logged in, submarine and airship voyage timers, and retainer ventures.",
+    "Punchline": "All your FCs, houses, retainers and voyages in one place.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/EminisCompany/FCTracker-repo",
+    "Tags": ["housing", "freecompany", "submarine", "retainer", "timer"],
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1791306735,
+    "DownloadLinkInstall": "https://github.com/EminisCompany/FCTracker-repo/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/EminisCompany/FCTracker-repo/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/EminisCompany/FCTracker-repo/releases/download/v0.1.0/latest.zip",
+    "CategoryTags": [],
+    "ImageUrls": [],
+    "IconUrl": null,
+    "AcceptsFeedback": false
+  }
+]
